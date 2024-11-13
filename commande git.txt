@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https://github.com/your-username/your-repo-name.git
+
+git checkout -b branch_name
+
+git add .
+
+git commit -m "Your descriptive commit message"
+
+git push -u origin branch_name
